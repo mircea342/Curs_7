@@ -1,4 +1,4 @@
-z = 0
+z = 0 #
 
 try:
     x = int(input("x="))
